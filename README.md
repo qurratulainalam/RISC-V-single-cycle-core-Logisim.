@@ -53,4 +53,10 @@ following are the 27 instructions that are stimulated and checked on this single
    * Stage 3: ALU (ArithmeLc-Logic Unit) 
    * Stage 4: Memory Access 
    * Stage 5: Register Write 
-   ![execution of data path](C:\Users\Lenovo\Downloads\eee.png?raw=true "Title")
+   ### execution of data path:
+   ![eee](https://user-images.githubusercontent.com/81563886/113519217-3b7aa280-95a4-11eb-85c1-4af40a648503.png)
+
+
+### circuit:
+** Designed by Qurrat ul ain Alam malick**
+![circuit](https://user-images.githubusercontent.com/81563886/113519317-da9f9a00-95a4-11eb-8cba-889934314b95.png)
