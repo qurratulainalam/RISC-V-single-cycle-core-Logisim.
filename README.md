@@ -59,5 +59,5 @@ following are the 27 instructions that are stimulated and checked on this single
 
 
 ### circuit:
-** Designed by Qurrat ul ain Alam malick**
+##**Designed by Qurrat ul ain Alam malick**
 ![circuit](https://user-images.githubusercontent.com/81563886/113519317-da9f9a00-95a4-11eb-8cba-889934314b95.png)
