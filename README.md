@@ -14,10 +14,10 @@ This repository contains RISC-V Single Cycle 32 Bit Processor simulated on Logis
 10.Program Counter
 ### instructor:
 *sir zeeshan rafique
-###Pre-Req Tools
+### Pre-Req Tools
 *logisim
 *venus stimulator
-###instructions that can be stimulated:
+### instructions that can be stimulated:
 following are the 27 instructions that are stimulated and checked on this single cycle cpu,
 
     1.add
@@ -47,10 +47,10 @@ following are the 27 instructions that are stimulated and checked on this single
     25.bge
     26.bltu
     27.bgeu
-   ###Five Stages of Instruction execution:
-   *Stage 1: InstrucLon Fetch 
-   *Stage 2: InstrucLon Decode 
-   *Stage 3: ALU (ArithmeLc-Logic Unit) 
-   *Stage 4: Memory Access 
-   *Stage 5: Register Write 
-   ![Image of execution of data path](https://octodex.github.com/images/eee.png)
+   ### Five Stages of Instruction execution:
+   * Stage 1: InstrucLon Fetch 
+   * Stage 2: InstrucLon Decode 
+   * Stage 3: ALU (ArithmeLc-Logic Unit) 
+   * Stage 4: Memory Access 
+   * Stage 5: Register Write 
+   ![execution of data path](C:\Users\Lenovo\Downloads\eee.png?raw=true "Title")
