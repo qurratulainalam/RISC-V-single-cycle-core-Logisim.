@@ -13,10 +13,10 @@ This repository contains RISC-V Single Cycle 32 Bit Processor simulated on Logis
 9.Branch Circuit
 10.Program Counter
 ### instructor:
-*sir zeeshan rafique
+* sir Zeeshan Rafique
 ### Pre-Req Tools
-*logisim
-*venus stimulator
+* logisim
+* venus stimulator
 ### instructions that can be stimulated:
 following are the 27 instructions that are stimulated and checked on this single cycle cpu,
 
@@ -54,7 +54,8 @@ following are the 27 instructions that are stimulated and checked on this single
    * Stage 4: Memory Access 
    * Stage 5: Register Write 
    ### execution of data path:
-   ![eee](https://user-images.githubusercontent.com/81563886/113519217-3b7aa280-95a4-11eb-85c1-4af40a648503.png)
+   ![Screenshot_2021-04-05 lecture08_RISCV_Impl pdf](https://user-images.githubusercontent.com/81563886/113519556-7b428980-95a6-11eb-81e5-b76991098c37.png)
+
 
 
 ### circuit:
